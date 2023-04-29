@@ -19,4 +19,3 @@ except Exception as e:
 
 def main():
     on_press(Key)
-
